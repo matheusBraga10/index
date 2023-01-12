@@ -12,7 +12,7 @@ h2 {
 }
 img.lado {
     float: right;
-    ;
+    width: 75px;
 }
 body  {
     background-color: rgb(198, 152, 252);
